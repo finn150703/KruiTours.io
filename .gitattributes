@@ -1,0 +1,1 @@
+*.jpg*.Png*.mp4*jpeg filter=lfs diff=lfs merge=lfs -text
