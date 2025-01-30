@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KruiTours.io/static/css/main.27630448.css",
+    "main.js": "/KruiTours.io/static/js/main.d1b522b0.js",
+    "static/js/453.99dcf01f.chunk.js": "/KruiTours.io/static/js/453.99dcf01f.chunk.js",
+    "index.html": "/KruiTours.io/index.html",
+    "main.27630448.css.map": "/KruiTours.io/static/css/main.27630448.css.map",
+    "main.d1b522b0.js.map": "/KruiTours.io/static/js/main.d1b522b0.js.map",
+    "453.99dcf01f.chunk.js.map": "/KruiTours.io/static/js/453.99dcf01f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27630448.css",
+    "static/js/main.d1b522b0.js"
+  ]
+}
