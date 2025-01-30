@@ -11,7 +11,7 @@ import BookActivity from './components/Booking pages/Bookactivity'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/KruiTours.io'>
 
       <Routes>
         <Route path="/" element={<Homepage/>}/>
